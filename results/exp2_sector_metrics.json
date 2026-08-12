@@ -1,0 +1,82 @@
+{
+  "TECH": {
+    "RL-APM": {
+      "label": "RL-APM",
+      "cumulative_return": 92.47971963941373,
+      "annualized_volatility": 28.291767244303973,
+      "sharpe_ratio": 0.8264902507014946,
+      "max_drawdown": -35.34774982888445
+    },
+    "MVO": {
+      "label": "MVO",
+      "cumulative_return": 171.80269519748478,
+      "annualized_volatility": 40.11731480518835,
+      "sharpe_ratio": 1.5161197955071795,
+      "max_drawdown": -28.78263034576581
+    }
+  },
+  "HLTH": {
+    "RL-APM": {
+      "label": "RL-APM",
+      "cumulative_return": 11.97375757007828,
+      "annualized_volatility": 15.126010761902208,
+      "sharpe_ratio": 0.050715481294463995,
+      "max_drawdown": -12.84355481995259
+    },
+    "MVO": {
+      "label": "MVO",
+      "cumulative_return": 54.72159995138044,
+      "annualized_volatility": 22.171347207761592,
+      "sharpe_ratio": 1.034521782599646,
+      "max_drawdown": -15.53478010505122
+    }
+  },
+  "ENRG": {
+    "RL-APM": {
+      "label": "RL-APM",
+      "cumulative_return": 16.35247942509659,
+      "annualized_volatility": 28.791097153410984,
+      "sharpe_ratio": 0.17996361176606931,
+      "max_drawdown": -31.16564987971736
+    },
+    "MVO": {
+      "label": "MVO",
+      "cumulative_return": -21.128616086303943,
+      "annualized_volatility": 24.491875817368687,
+      "sharpe_ratio": -0.6155854148518108,
+      "max_drawdown": -36.387314647165965
+    }
+  },
+  "FIN": {
+    "RL-APM": {
+      "label": "RL-APM",
+      "cumulative_return": 39.215285197314785,
+      "annualized_volatility": 23.444366674311553,
+      "sharpe_ratio": 0.43943982268430287,
+      "max_drawdown": -23.569141674590057
+    },
+    "MVO": {
+      "label": "MVO",
+      "cumulative_return": 57.37131200796115,
+      "annualized_volatility": 18.777304169375128,
+      "sharpe_ratio": 1.2381774586804943,
+      "max_drawdown": -13.486596784904679
+    }
+  },
+  "CNSMR": {
+    "RL-APM": {
+      "label": "RL-APM",
+      "cumulative_return": 11.03010179840389,
+      "annualized_volatility": 19.946836054675185,
+      "sharpe_ratio": 0.06551650753718075,
+      "max_drawdown": -20.51185957716049
+    },
+    "MVO": {
+      "label": "MVO",
+      "cumulative_return": 47.31709678068518,
+      "annualized_volatility": 16.093959740723704,
+      "sharpe_ratio": 1.180328970537374,
+      "max_drawdown": -9.031755027413803
+    }
+  }
+}

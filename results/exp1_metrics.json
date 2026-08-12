@@ -1,0 +1,16 @@
+{
+  "RL-APM": {
+    "label": "RL-APM",
+    "cumulative_return": 32.081995085143774,
+    "annualized_volatility": 16.98202331535236,
+    "sharpe_ratio": 0.4174362139351896,
+    "max_drawdown": -15.261126819193832
+  },
+  "MVO": {
+    "label": "MVO",
+    "cumulative_return": 40.647997239314314,
+    "annualized_volatility": 17.757412316714948,
+    "sharpe_ratio": 0.9347375033420892,
+    "max_drawdown": -14.457657703674604
+  }
+}

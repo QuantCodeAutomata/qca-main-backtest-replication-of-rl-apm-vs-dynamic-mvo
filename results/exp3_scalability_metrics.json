@@ -1,0 +1,34 @@
+{
+  "RL-APM (DDPG)": {
+    "label": "RL-APM (DDPG)",
+    "cumulative_return": 32.937354041898146,
+    "annualized_volatility": 16.713382850084667,
+    "sharpe_ratio": 0.4355688693404962,
+    "max_drawdown": -16.369311828479685,
+    "runtime": 49.7366669178009
+  },
+  "PPO": {
+    "label": "PPO",
+    "cumulative_return": 33.53384040565985,
+    "annualized_volatility": 16.883412503649254,
+    "sharpe_ratio": 0.44254313986254556,
+    "max_drawdown": -16.554382446184796,
+    "runtime": 12.437246084213257
+  },
+  "SAC": {
+    "label": "SAC",
+    "cumulative_return": 33.45127078735346,
+    "annualized_volatility": 16.892879982059686,
+    "sharpe_ratio": 0.44105363234121403,
+    "max_drawdown": -16.569014167096903,
+    "runtime": 106.00668978691101
+  },
+  "MVO": {
+    "label": "MVO",
+    "cumulative_return": 62.35372657975524,
+    "annualized_volatility": 16.455797080587136,
+    "sharpe_ratio": 1.4958685852401477,
+    "max_drawdown": -9.214841831037205,
+    "runtime": 119.9480676651001
+  }
+}
